@@ -1,0 +1,10 @@
+[
+    {
+      "questionNo": 1,
+      "question": "Fill in the empty box to complete the multiplication sentence.",
+      "options":["2","×","5","=",""],
+      "answers": ["2","×","5","=","10"],
+      "secondImg":"./images/25.jpg"
+    }
+  ]
+  
